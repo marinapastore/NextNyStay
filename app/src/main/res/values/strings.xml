@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NyStay</string>
+    <string name="first_question">What to do in New York City?</string>
+    <string name="second_question">Check the boxes with your favorites</string>
+    <string name="coffee_checkbox">Coffeeshops</string>
+    <string name="museum_checkbox">Arts and Museums</string>
+    <string name="bars_checkbox">Bars and drinks</string>
+    <string name="food_checkbox">Talk to me about food</string>
+    <string name="landscape_checkbox">Parks and landscapes</string>
+    <string name="third_question">How much are you willing to pay?</string>
+    <string name="price_inputText">Tell me your price...</string>
+    <string name="fourth_question">How picky are you about your Hotel option?</string>
+    <string name="fifth_question_pt1">Upper East Side to Brooklyn.. we have it all!</string>
+    <string name="fifth_question_pt2">Where would you like to stay?</string>
+    <string name="bronx_checkbox">BRONX</string>
+    <string name="queens_checkbox">QUEENS</string>
+    <string name="brooklyn_checkbox">BROOKLYN</string>
+    <string name="manhathan_checkbox">NEW YORK</string>
+    <string name="go_button">GO</string>
+    <string name="my_image_description">HOTEL NY</string>
+    <string name="go_maps">CHECK HOTEL LOCATION</string>
+    <string name="people_comments">I loved this hotel! Great location and amazing view...</string>
+</resources>
